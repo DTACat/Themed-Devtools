@@ -1,0 +1,6 @@
+[class*="container"] [class*="sidebarContent"] {
+	background: var(--bg-overlay-3);
+}
+[class*="container"] [class*="tabBar"] {
+	background: var(--bg-overlay-3);
+}
